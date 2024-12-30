@@ -1,5 +1,3 @@
----
-
 # Bhargavi Vasudev Jahagirdar  
 **Data Science Enthusiast | Business Analyst | Researcher**  
 📧 bhargavi.vjahagirdar1968@gmail.com  
